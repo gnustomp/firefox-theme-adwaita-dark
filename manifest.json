@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Theme based on Adwaita-dark",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "#353535",
+      "toolbar_text": "#eeeeec",
+      "frame": "#282828",
+      "frame_inactive": "#353535",
+      "tab_background_text": "#919190",
+      "toolbar_field": "#2d2d2d",
+      "toolbar_field_text": "#eeeeec",
+      "tab_line": "#15539e",
+      "popup": "#353535",
+      "popup_text": "#eeeeec",
+      "tab_loading": "#15539e",
+      "ntp_background": "#2a2a2e",
+      "ntp_text": "#f9f9fa"
+    }
+  }
+}
